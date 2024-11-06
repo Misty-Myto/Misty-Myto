@@ -15,6 +15,6 @@ Hello. My name is Kelvin, and I want to make a difference in the world by contri
 - Reading
 - You get the idea
 
-## My Favorite Verse
+## My Favorite Book of the Bible
 
-Ecclesiastes 2:3 - To every thing there is a season, and a time to every purpose under the heaven
+Ecclesiastes
