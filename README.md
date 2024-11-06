@@ -15,6 +15,6 @@ Hello. My name is Kelvin, and I want to make a difference in the world by contri
 - Reading
 - You get the idea
 
-## My Favorite Book of the Bible
+## Favorite Book of the Bible
 
 Ecclesiastes
