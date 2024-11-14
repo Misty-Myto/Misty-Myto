@@ -19,4 +19,4 @@ Hello. My name is Kelvin with the title of math enthusiast, computer geek, and m
 
 ## Favorite Book of the Bible
 
-Ecclesiastes. There's no way I would change my mind.
+Ecclesiastes. Change my mind.
