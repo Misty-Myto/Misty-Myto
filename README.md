@@ -5,16 +5,18 @@ You can click the Preview link to take a look at your changes.
 
 # My Introduction
 
-Hello. My name is Kelvin, and I want to make a difference in the world by contributing to open source software and gaining experience from them.
+Hello. My name is Kelvin with the title of math enthusiast, computer geek, and most importantly, professional procrastinator. You get the idea.
 
 ## Hobbies
 
 - Linux
+- Math (Yes i study math in free time [insert chad music])
 - Gaming
 - YouTube
 - Reading
-- You get the idea
+- Chess
+- And many more
 
 ## Favorite Book of the Bible
 
-Ecclesiastes
+Ecclesiastes. There's no way I would change my mind.
