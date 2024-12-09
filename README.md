@@ -10,7 +10,7 @@ Hello. My name is Kelvin with the title of math enthusiast, computer geek, and m
 ## Hobbies
 
 - Linux
-- Math (Yes i study math for fun [insert Can You Feel My Heart])
+- Math (insert chad music)
 - Gaming
 - YouTube
 - Reading
