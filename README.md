@@ -5,7 +5,8 @@ You can click the Preview link to take a look at your changes.
 
 # Introduction
 
-Hello. My name is Kelvin. I code and I swear I will not procrastinate.
+Hello. My name is Kelvin
+I code and swear that I will not procrastinate
 
 ## Hobbies
 
@@ -19,4 +20,4 @@ Hello. My name is Kelvin. I code and I swear I will not procrastinate.
 
 ## Favorite Book of the Bible
 
-Ecclesiastes. Change my mind.
+Ecclesiastes
