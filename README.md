@@ -3,9 +3,9 @@ Misty-Myto/Misty-Myto is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-# My Introduction
+# Introduction
 
-Hello. My name is Kelvin with the title of math enthusiast, computer geek, and most importantly, professional procrastinator. You get the idea.
+Hello. My name is Kelvin. I code and I swear I will not procrastinate.
 
 ## Hobbies
 
